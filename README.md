@@ -19,7 +19,7 @@ The project consists of five tasks that demonstrate different aspects of digital
 
 ├── README.md  
 ├── report/  
-│   └── Project_Report.docx  
+│   └── Project_Report.pdf  
 ├── task-1-presentation/  
 │   └── infographic.png  
 ├── task-2-portfolio/  
