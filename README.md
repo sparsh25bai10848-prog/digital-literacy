@@ -2,7 +2,7 @@
 
 ## Student Details
 Name: Sparsh  
-Reg No: (your reg no)  
+Reg No: 25BAI10848
 Course: CSE0001 – Digital Literacy  
 Branch: CSE (AI & ML)  
 Year: 1st Year  
