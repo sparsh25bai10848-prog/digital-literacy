@@ -1,0 +1,9 @@
+Cybercrime Case Study: UPI Payment Fraud
+
+UPI payment fraud is one of the most common cybercrimes affecting students and individuals in India. In this type of fraud, attackers trick users into sharing sensitive information or approving fraudulent payment requests.
+
+Typically, the fraud begins when the victim receives a call or message claiming to be from a bank official or a trusted service. The attacker may ask the user to click on a link or request them to approve a “receive money” request on a UPI app. In some cases, fake QR codes are sent, which actually deduct money instead of adding it.
+
+Students and young users are often targeted because they may not be fully aware of such scams. The consequences include financial loss, data theft, and mental stress.
+
+This type of cybercrime highlights the importance of awareness and caution while using digital payment platforms.
